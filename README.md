@@ -60,6 +60,7 @@ Run the Script:
 
 Open a terminal/command prompt.
 Navigate to the folder where the Python script is located.
+
 Run the script:
 bash
 Copy
@@ -69,3 +70,5 @@ Enter Password:
 The program will prompt you to enter the password for decryption.
 If the password matches the one used during encryption, the message will be decrypted and displayed.
 
+NOTE:
+If you want to run this code on your system or desktop, you can change my image path to your system or desktop image path, then only the code will work on your system.
