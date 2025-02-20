@@ -71,4 +71,7 @@ The program will prompt you to enter the password for decryption.
 If the password matches the one used during encryption, the message will be decrypted and displayed.
 
 NOTE:
-If you want to run this code on your system or desktop, you can change my image path to your system or desktop image path, then only the code will work on your system.
+1.If you want to run this code on your system  you have to change  image path to your system  image path, then only the code will work on your system. 
+2. And ur python has to be added in system environmental variables path
+3. Python library Open cv must be installed in ur system with the below command,
+4. pip install opencv-python
